@@ -4,7 +4,6 @@
         <div class="page__title">Badge</div>
         <div class="page__desc">徽章</div>
     </div>
-
     <div class="page__bd">
         <div class="weui-cells__title">新消息提示跟摘要信息后，统一在列表右侧</div>
         <div class="weui-cells weui-cells_after-title">
